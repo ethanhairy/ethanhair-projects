@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task1_TheContest</string>
+    <string name="score_button_text">Score</string>
+    <string name="steal_button_text">Steal</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="score_text">0</string>
+</resources>

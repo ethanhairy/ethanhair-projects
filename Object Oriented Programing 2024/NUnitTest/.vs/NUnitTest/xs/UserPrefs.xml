@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FA26A545-FA92-448A-9D37-6748945B7DC5}|Default">
+  <MonoDevelop.Ide.ItemProperties.NUnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NUnitTest/IntegerQueue.cs">
+    <Files>
+      <File FileName="NUnitTest/Program.cs" Line="19" Column="13" />
+      <File FileName="NUnitTest/IntegerQueue.cs" Line="6" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NUnitTest" expanded="True">
+            <Node name="NUnitTest" expanded="True">
+              <Node name="IntegerQueue.cs" selected="True" />
+            </Node>
+            <Node name="NUnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

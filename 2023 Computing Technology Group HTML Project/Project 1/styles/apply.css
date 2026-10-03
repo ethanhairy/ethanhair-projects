@@ -1,0 +1,157 @@
+/*
+filename: apply.css
+author: Ethan Hair
+created: 21/3/2023
+last edited: 9/04/2023
+description: defines the CSS for apply.html
+*/
+
+@font-face { /*allows the page access to the Open Sans font*/
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: 100%;
+	src: url(https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+input[type=text] {  /*defines the attributes of the type 'text'*/
+    font-family: 'Open Sans';
+    font-size: 14px;
+    width: 50%; /*defines relative width*/
+    padding: 2px; /*adds padding within the text fields border*/
+    padding-left: 6px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none; /*removes border*/
+    border-bottom: 2px  solid black;
+    background: rgb(247, 247, 247);
+}
+
+input[type=email] { /*defines the attributes of the type 'email'*/
+    font-family: 'Open Sans';
+    font-size: 14px;
+    width: 50%;
+    padding: 10px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px  solid black;
+    background: rgb(247, 247, 247);
+}
+
+input[type=submit] { /*defines the attributes of the type 'submit'*/
+    font-family: 'Open Sans';
+    font-size: 14px;
+    padding: 5px;
+    margin: 15px 0;
+    border: 1px  solid black;
+}
+
+input[type=reset] { /*defines the attributes of the type 'reset'*/
+    font-family: 'Open Sans';
+    font-size: 14px;
+    padding: 5px;
+    margin: 15px 0;
+    border: 1px  solid black;
+}
+
+.JobApplication { /*defines the job application title*/
+    font-family: 'Open Sans';
+    font-size: 16px;
+    text-align: center;
+}
+
+.ApplicantForm { /*defines the whole of the apply form fieldset*/
+    font-family: 'Open Sans'; /*defines the font*/
+    font-size: 20px; /*defines the font size*/
+    text-align: center; /*centres text in fieldset*/
+    width: 50%; /*size of the form relative to the page*/
+    min-width: 40em; /*min form size*/
+    margin-left: auto;  /*Centres form*/
+    margin-right: auto;
+}
+
+legend { /*Center all the fieldset legends*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ApplyForm { /*defines the aesthetics of the Form and removes the fieldset border*/
+    border: none;
+    border-top: 3px solid rgb(255, 139, 135); /*creates and colors the top border line*/
+    border-bottom: 3px solid rgb(255, 139, 135); /*creates and colors the bottom border line*/
+    background: rgb(247, 247, 247); /*colors the background of the form*/
+}
+
+#GenderField { /*defines the dimensions of the genderfieldset, removes the fieldset border and centres it using the margin*/
+    border: none;
+    width: 15em; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ContactField { /*defines the dimensions of the contact fieldset, and centres it using the margin*/
+    width: 25em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Contact { /* makes the contact fieldset have no border */
+    border: none;
+}
+
+#email { 
+    width: 18em;
+}
+
+#phone {
+    width: 10em
+}
+
+.SkillField {
+    width: 25em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SubRes { /*centres submit and reset buttons*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#submit { /*defines submit button aesthetics*/
+    color: white; /*sets button, text color to white*/
+    background-color: rgb(255, 60, 53);
+}
+
+#reset { /*defines reset button aesthetics*/
+    color: white;
+    background-color: rgb(255, 60, 53);
+}
+
+#job_reference {
+    width: 5em;
+}
+
+#fname, #lname {
+    width: 15em;
+    text-align: center;
+}
+
+#date {
+    width: 8em;
+    text-align: center;
+}
+
+#address {
+    width: 50%;
+}
+
+#suburb {
+    width: 16em;
+}
+
+#postcode {
+    width: 4em;
+}

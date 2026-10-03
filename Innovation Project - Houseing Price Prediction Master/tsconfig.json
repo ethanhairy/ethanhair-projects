@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/ScatterPlot.jsx", "components/LineChart.jsx", "components/BarChart.jsx", "components/FilterableBarChart.jsx", "components/visualization/BarChart.jsx", "app/page.tsx", "hooks/useLenis.ts", "components/SmoothScrolling.jsx", "app/product/page.jsx"],
+  "exclude": ["node_modules"]
+}
+

@@ -1,0 +1,15 @@
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/bin/Debug/net7.0/Counter
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/bin/Debug/net7.0/Counter.deps.json
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/bin/Debug/net7.0/Counter.runtimeconfig.json
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/bin/Debug/net7.0/Counter.dll
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/bin/Debug/net7.0/Counter.pdb
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/obj/Debug/net7.0/Counter.csproj.AssemblyReference.cache
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/obj/Debug/net7.0/Counter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/obj/Debug/net7.0/Counter.AssemblyInfoInputs.cache
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/obj/Debug/net7.0/Counter.AssemblyInfo.cs
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/obj/Debug/net7.0/Counter.csproj.CoreCompileInputs.cache
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/obj/Debug/net7.0/Counter.dll
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/obj/Debug/net7.0/refint/Counter.dll
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/obj/Debug/net7.0/Counter.pdb
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/obj/Debug/net7.0/Counter.genruntimeconfig.cache
+/Users/ethan/Documents/VisualStudioCode2024/Counter/Counter/obj/Debug/net7.0/ref/Counter.dll

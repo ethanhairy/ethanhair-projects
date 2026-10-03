@@ -1,0 +1,15 @@
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/bin/Debug/net7.0/DrawingProgram4.1
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/bin/Debug/net7.0/DrawingProgram4.1.deps.json
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/bin/Debug/net7.0/DrawingProgram4.1.runtimeconfig.json
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/bin/Debug/net7.0/DrawingProgram4.1.dll
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/bin/Debug/net7.0/DrawingProgram4.1.pdb
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/obj/Debug/net7.0/DrawingProgram4.1.csproj.AssemblyReference.cache
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/obj/Debug/net7.0/DrawingProgram4.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/obj/Debug/net7.0/DrawingProgram4.1.AssemblyInfoInputs.cache
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/obj/Debug/net7.0/DrawingProgram4.1.AssemblyInfo.cs
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/obj/Debug/net7.0/DrawingProgram4.1.csproj.CoreCompileInputs.cache
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/obj/Debug/net7.0/DrawingProgram4.1.dll
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/obj/Debug/net7.0/refint/DrawingProgram4.1.dll
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/obj/Debug/net7.0/DrawingProgram4.1.pdb
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/obj/Debug/net7.0/DrawingProgram4.1.genruntimeconfig.cache
+/Users/ethan/Documents/VisualStudioCode/DrawingProgram 4.1/obj/Debug/net7.0/ref/DrawingProgram4.1.dll

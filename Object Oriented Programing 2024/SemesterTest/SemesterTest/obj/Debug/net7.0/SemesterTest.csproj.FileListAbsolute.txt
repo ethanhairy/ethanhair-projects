@@ -1,0 +1,15 @@
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.csproj.AssemblyReference.cache
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.AssemblyInfoInputs.cache
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.AssemblyInfo.cs
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.csproj.CoreCompileInputs.cache
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/bin/Debug/net7.0/SemesterTest
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/bin/Debug/net7.0/SemesterTest.deps.json
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/bin/Debug/net7.0/SemesterTest.runtimeconfig.json
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/bin/Debug/net7.0/SemesterTest.dll
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/bin/Debug/net7.0/SemesterTest.pdb
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.dll
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/obj/Debug/net7.0/refint/SemesterTest.dll
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.pdb
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.genruntimeconfig.cache
+/Users/ethan/Documents/VisualStudioCode2024/SemesterTest/SemesterTest/obj/Debug/net7.0/ref/SemesterTest.dll

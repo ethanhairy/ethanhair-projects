@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    style="@style/BackgroundColourStyle">
+
+    <ImageView
+        android:id="@+id/detailImage"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/detailTitle"
+        style="@style/DetailTitleTextStyle" />
+
+    <TextView
+        android:id="@+id/detailLocation"
+        style="@style/DetailTextStyle" />
+
+    <TextView
+        android:id="@+id/detailDate"
+        style="@style/DetailTextStyle" />
+
+    <RatingBar
+        android:id="@+id/detailRating"
+        style="@style/DetailRatingBarStyle" />
+
+</LinearLayout>

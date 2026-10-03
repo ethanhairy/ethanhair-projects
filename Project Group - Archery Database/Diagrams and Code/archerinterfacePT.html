@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Archery Score Recording</title>
+</head>
+<body>
+    <h1>Archery Score Entry</h1>
+    <form>
+        <!-- Section for selecting the round -->
+        <label for="round">Choose a round:</label>
+        <select id="round" name="round">
+            <option value="round1">Round 1</option>
+            <option value="round2">Round 2</option>
+            <!-- Additional rounds can be added here -->
+        </select>
+
+        <!-- Section for selecting the archer -->
+        <label for="archer">Select Archer:</label>
+        <select id="archer" name="archer">
+            <option value="archer1">Archer 1</option>
+            <option value="archer2">Archer 2</option>
+            <!-- Additional archers can be added here -->
+        </select>
+
+        <!-- Section for entering scores -->
+        <fieldset>
+            <legend>Enter Scores</legend>
+            <input type="button" value="X" onclick="recordScore('X')">
+            <input type="button" value="10" onclick="recordScore('10')">
+            <input type="button" value="9" onclick="recordScore('9')">
+            <input type="button" value="8" onclick="recordScore('8')">
+            <!-- Additional score buttons can be added here -->
+        </fieldset>
+    </form>
+
+    <!-- Placeholder for displaying entered scores -->
+    <div id="scoreDisplay"></div>
+
+    <script>
+        function recordScore(score) {
+            var display = document.getElementById("scoreDisplay");
+            display.innerHTML += score + " ";
+        }
+    </script>
+</body>
+</html>

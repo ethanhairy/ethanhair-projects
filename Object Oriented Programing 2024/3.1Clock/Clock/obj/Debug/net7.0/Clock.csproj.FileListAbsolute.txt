@@ -1,0 +1,45 @@
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/obj/Debug/net7.0/Clock.csproj.AssemblyReference.cache
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/obj/Debug/net7.0/Clock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/obj/Debug/net7.0/Clock.AssemblyInfoInputs.cache
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/obj/Debug/net7.0/Clock.AssemblyInfo.cs
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/obj/Debug/net7.0/Clock.csproj.CoreCompileInputs.cache
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/bin/Debug/net7.0/Clock
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/bin/Debug/net7.0/Clock.deps.json
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/bin/Debug/net7.0/Clock.runtimeconfig.json
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/bin/Debug/net7.0/Clock.dll
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/bin/Debug/net7.0/Clock.pdb
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/obj/Debug/net7.0/Clock.dll
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/obj/Debug/net7.0/refint/Clock.dll
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/obj/Debug/net7.0/Clock.pdb
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/obj/Debug/net7.0/Clock.genruntimeconfig.cache
+/Users/ethan/Documents/VisualStudioCode/Clock/Clock/obj/Debug/net7.0/ref/Clock.dll
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/bin/Debug/net7.0/Clock
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/bin/Debug/net7.0/Clock.deps.json
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/bin/Debug/net7.0/Clock.runtimeconfig.json
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/bin/Debug/net7.0/Clock.dll
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/bin/Debug/net7.0/Clock.pdb
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.csproj.AssemblyReference.cache
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.AssemblyInfoInputs.cache
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.AssemblyInfo.cs
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.csproj.CoreCompileInputs.cache
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.dll
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/obj/Debug/net7.0/refint/Clock.dll
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.pdb
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.genruntimeconfig.cache
+/Users/ethan/Documents/VisualStudioCode2024/3.1Clock/Clock/obj/Debug/net7.0/ref/Clock.dll
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/bin/Debug/net7.0/Clock
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/bin/Debug/net7.0/Clock.deps.json
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/bin/Debug/net7.0/Clock.runtimeconfig.json
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/bin/Debug/net7.0/Clock.dll
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/bin/Debug/net7.0/Clock.pdb
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.csproj.AssemblyReference.cache
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.AssemblyInfoInputs.cache
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.AssemblyInfo.cs
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.csproj.CoreCompileInputs.cache
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.dll
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/obj/Debug/net7.0/refint/Clock.dll
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.pdb
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/obj/Debug/net7.0/Clock.genruntimeconfig.cache
+/Users/ethan/Documents/VisualStudioCode - OOP 2024/3.1Clock/Clock/obj/Debug/net7.0/ref/Clock.dll

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Demonstrates some basic HTML form elements">
+  <meta name="keywords" content="HTML, Form, tags">
+  <meta name="author" content="Ethan Hair">
+  <title>CWA Help Desk Appointment</title>
+</head>
+<body>
+
+<img src = logo.png alt = "Logo">
+<h1>CWA Help Desk Appointment</h1>
+<p>The Help Desk is located in ATC620. Open 10:30 to 19:00 Monday to Friday</p>
+<p>Check Blackboard for when CWA tutors will be there</p>
+
+<form method="post" action="http://mercury.swin.edu.au/it000000/formtest.php">
+<fieldset>
+    <legend>Student Details</legend>
+    
+    <p><label for="studentid">Student ID</label>
+        <input type="text" name="studentid" id="studentid" required="required" pattern="\d{7-10}">
+    </p>
+
+    <p> <label for="given_name">Given Name</label>
+        <input type="text" name="given_name" id="given_name" required="required" pattern="[a-zA-Z]{1-15}">
+    
+        <label for="family_name">Family Name</label>
+        <input type="text" name="family_name" id="family_name" required="required" pattern="[a-zA-Z]{1-15}">
+    </p>
+</fieldset>
+<fieldset>
+    <legend>Your Unit</legend>
+    <p>
+        <label for="cos10011">
+        <input type="radio" id="cos10011" name="unit" value="cos10011" required="required"/>
+        COS10011
+        </label> 
+
+        <label for="cos60004">
+        <input type="radio" id="cos60004" name="unit" value="cos60004"/>
+        COS60004
+        </label> 
+
+        <label for="cos60007">
+        <input type="radio" id="cos60007" name="unit" value="cos60007"/>
+        COS60007
+        </label>
+    </p>
+    <p>
+        <label for="tutors">Your Tutor</label>
+            <select name="tutors" id="tutors"> <!--Creates a selection box-->
+				<option value="T1">Tutor1</option>	<!--Becomes a value to be selected in the selection box-->
+				<option value="T2">Tutor2</option>
+				<option value="T3">Tutor3</option>
+				<option value="T4">Tutor4</option>
+				<option value="T5">Tutor5</option>
+				
+			</select>
+    </p>
+</fieldset>
+
+<fieldset>
+    <legend>Issue</legend>
+    <p>
+        <label for="html">HTML</label> 
+        <input type="checkbox" id="html" name="category[]" value="html" checked="checked"/>
+
+        <label for="css">CSS</label> 
+        <input type="checkbox" id="css" name="category[]" value="css"/>
+    
+        <label for="javascript">Javascript</label> 
+        <input type="checkbox" id="javascript" name="category[]" value="javascript"/>
+    
+        <label for="php">PHP</label> 
+        <input type="checkbox" id="php" name="category[]" value="php"/>
+    
+        <label for="mysql">MySQL</label> 
+        <input type="checkbox" id="mysql" name="category[]" value="mysql"/>
+    </p>
+    <p>
+        <label for="desissue">Description of Issue</label>
+        <textarea id="desissue" name="desissue" rows="4" cols="40" placeholder="Write description of your problem here..."></textarea>
+    </p>
+</fieldset>
+<fieldset>
+    <legend>Preferred Date/TIme</legend>
+    <P>
+        <label for="date">Date</label> 
+        <input type="text" id="date" name="date" required="required" placeholder="dd/mm/yy" pattern="\d{2}/\d{2}/\d{4}"/>
+    </p>
+    <P>
+        <label for="time">Time</label> 
+        <input type="text" id="time" name="time" required="required" placeholder="00:00" pattern="\d{2}:\d{2}"/>
+    </p>
+
+
+</fieldset>
+
+    <input type= "submit" value="Register"/>
+	<input type= "reset" value="Reset Form"/>
+</form>
+</body>
+
+</html>
+
+
+
+

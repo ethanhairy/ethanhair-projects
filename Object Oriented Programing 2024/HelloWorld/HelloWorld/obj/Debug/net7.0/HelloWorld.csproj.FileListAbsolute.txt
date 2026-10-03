@@ -1,0 +1,15 @@
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/ethan/Documents/VisualStudioCode2024/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll

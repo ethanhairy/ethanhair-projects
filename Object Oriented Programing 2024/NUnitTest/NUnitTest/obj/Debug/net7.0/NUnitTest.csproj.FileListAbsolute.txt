@@ -1,0 +1,15 @@
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/bin/Debug/net7.0/NUnitTest
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/bin/Debug/net7.0/NUnitTest.deps.json
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/bin/Debug/net7.0/NUnitTest.runtimeconfig.json
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/bin/Debug/net7.0/NUnitTest.dll
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/bin/Debug/net7.0/NUnitTest.pdb
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/obj/Debug/net7.0/NUnitTest.csproj.AssemblyReference.cache
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/obj/Debug/net7.0/NUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/obj/Debug/net7.0/NUnitTest.AssemblyInfoInputs.cache
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/obj/Debug/net7.0/NUnitTest.AssemblyInfo.cs
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/obj/Debug/net7.0/NUnitTest.csproj.CoreCompileInputs.cache
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/obj/Debug/net7.0/NUnitTest.dll
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/obj/Debug/net7.0/refint/NUnitTest.dll
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/obj/Debug/net7.0/NUnitTest.pdb
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/obj/Debug/net7.0/NUnitTest.genruntimeconfig.cache
+/Users/ethan/Documents/VisualStudioCode2024/NUnitTest/NUnitTest/obj/Debug/net7.0/ref/NUnitTest.dll

@@ -1,0 +1,15 @@
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.deps.json
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.runtimeconfig.json
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.dll
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.pdb
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.csproj.AssemblyReference.cache
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.AssemblyInfoInputs.cache
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.AssemblyInfo.cs
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.csproj.CoreCompileInputs.cache
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.dll
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/obj/Debug/net7.0/refint/SplashKitDemo.dll
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.pdb
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.genruntimeconfig.cache
+/Users/ethan/Documents/VisualStudioCode/SplashKitDemo/obj/Debug/net7.0/ref/SplashKitDemo.dll

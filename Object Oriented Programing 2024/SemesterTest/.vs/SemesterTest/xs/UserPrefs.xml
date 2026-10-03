@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1D5B3F56-B127-41C9-A0AD-A081FA358E11}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SemesterTest/Program.cs">
+    <Files>
+      <File FileName="SemesterTest/Program.cs" Line="16" Column="32" />
+      <File FileName="SemesterTest/Sales.cs" Line="30" Column="2" />
+      <File FileName="SemesterTest/Batch.cs" Line="39" Column="25" />
+      <File FileName="SemesterTest/Transaction.cs" Line="19" Column="24" />
+      <File FileName="SemesterTest/Thing.cs" Line="6" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SemesterTest" expanded="True">
+            <Node name="SemesterTest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SemesterTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

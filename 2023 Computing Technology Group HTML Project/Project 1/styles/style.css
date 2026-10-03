@@ -1,0 +1,503 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+/*#region header*/
+header {
+	position: sticky;
+	top: 0;
+	z-index: 999;
+	width: 100%;
+}
+#heading {
+	background: rgb(220,45,39);
+	background: linear-gradient(180deg, rgba(220,45,39, 1) 58%, rgba(150,40,30,1) 85%, rgba(0,0,0,1) 100%);
+	color: black;
+	overflow: hidden;
+}
+header img {
+	border: 1px solid black;
+	height: 50px;
+	float: left;
+}
+#heading h1 {
+	padding-left: 150px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	font-family: "Open Sans", sans-serif;
+}
+nav {
+	overflow: hidden;
+	border-style: solid;
+	border-width: 0.1px;
+}
+nav a {
+	width: 20%;
+	text-align: center;
+	float: left;
+	background-color: #dfdfdf;
+	text-decoration: none;
+	color: black;
+	border-bottom: 3px solid #dfdfdf;
+	font-weight: bold;
+	font-family: "Open Sans", sans-serif;
+}
+nav a:hover {
+	width: 20%;
+	text-align: center;
+	float: left;
+	background-color: #c4c4c4;
+	border-bottom: 3px solid red;
+}
+nav a:active {
+	background-color: #8a8a8a;
+}
+/*#endregion*/
+/*#region main body*/
+/*#region home page*/
+#bg-image {
+	background-image: url("images/computer.jpg");
+	background-size: cover;
+	padding: 10px;
+	height: 100vh;
+}
+#textBox {
+	background-color: #000000;
+	opacity: 0.5;
+	width: 40%;
+	padding: 20px;
+	border-radius: 10px;
+	float: left;
+}
+#textBox p, #textBox h2 {
+	opacity: 1;
+	color: white;
+	font-size: 18px;
+	
+}
+/*#region slider*/
+.cssSlider {
+    width: 20em;
+    height: 28em;
+	float: right;
+}
+.cssSlider ul {
+    z-index: 1;
+    font-size: 0;
+    line-height: 0;
+    border: 10px solid black;
+    border-radius: 20px;
+    padding: 0;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.cssSlider ul li {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    font-size: 15px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cssSlider ul li p {
+    font-size: 1.5em;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    opacity: 0;
+    padding: 1em;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 100%;
+}
+.cssSlider ul li:nth-of-type(1){
+    background-image: url("images/Muhammed.jpg");
+}
+.cssSlider ul li:nth-of-type(2){
+    background-image: url("images/Ansh.jpg");
+}
+.cssSlider ul li:nth-of-type(3){
+    background-image: url("images/Ethan.jpg");
+}
+.cssSlider ul li:nth-of-type(4){
+    background-image: url("images/Harry.jpg");
+}
+.cssSlider ul li:nth-of-type(5){
+    background-image: url("images/Judah.jpg");
+}
+
+.cssSlider ul li:nth-of-type(1) p{
+    animation: nameAnimation 30s ease-in-out 0s infinite;
+}
+.cssSlider ul li:nth-of-type(2) p{
+    animation: nameAnimation 30s ease-in-out 6s infinite;
+}
+.cssSlider ul li:nth-of-type(3) p{
+    animation: nameAnimation 30s ease-in-out 12s infinite;
+}
+.cssSlider ul li:nth-of-type(4) p{
+    animation: nameAnimation 30s ease-in-out 18s infinite;
+}
+.cssSlider ul li:nth-of-type(5) p{
+    animation: nameAnimation 30s ease-in-out 24s infinite;
+}
+
+.cssSlider ul li:first-of-type {
+    animation: cycleSlide 30s infinite cubic-bezier(0.4, 1.3, 0.65, 1);
+}
+@keyframes cycleSlide {
+    0%, 18%{
+        margin-left: 0%;
+    }
+    20%, 38%{
+        margin-left: -100%;
+    }
+    40%, 58%{
+        margin-left: -200%;
+    }
+    60%, 78%{
+        margin-left: -300%;
+    }
+    80%, 98%{
+        margin-left: -400%;
+    }
+}
+@keyframes nameAnimation {
+    0%{
+        opacity: 0;
+        margin-left: -80%;
+    }
+    2.5%{
+        opacity: 1;
+    }
+    3.5%{
+        margin-left: -1%;
+    }
+    10%{
+        opacity: 1;
+    }
+    80%{
+        opacity: 0;
+    }
+}
+/*#endregion*/
+/*#endregion*/
+/*#region job page*/
+/* jobs.html style.css */
+/* author: Harry Juniper */
+/* description: The purpose of this age is have two job descriptions. One for Application Tester and One for Game Developer */
+/* last_updated_date: 14/03/2023 */
+#JobHeading {
+	text-align: centre;
+	width: 30%;
+	margin: auto;
+	padding: 10px;
+	color: white;
+}
+
+#RelevantInformation {
+	text-align: centre;
+	position: absolute;
+	width: 20%;
+	right: 0%;
+	border: 4px solid rgb(220,45,39);
+	padding: 10px;
+	background: #fff;
+	border-radius: 8px;
+	opacity: 0.7;
+}
+
+#ApplicationTester {
+	text-align: centre;
+	margin-left: 5%;
+	padding: 10px;
+	color: white;
+}
+
+#ApplicationMain {
+	background: #fff;
+	border-radius: 8px;
+	padding: 8px;
+	width: 800;
+	color: black;
+	opacity: 0.7;
+}
+
+#GameDeveloper {
+	text-align: centre;
+	margin-left: 5%;
+	padding: 10px;
+	color: white;
+}
+
+#GameMain {
+	background: #fff;
+	border-radius: 8px;
+	padding: 8px;
+	width: 800;
+	color: black;
+	opacity: 0.7;
+}
+
+#CurrentPositionsAvailable {
+	background: url("images/computer.jpg");
+	background-size: cover;
+}
+/*#endregion*/
+/*#region apply page*/
+/*
+filename: apply.css
+author: Ethan Hair
+created: 21/3/2023
+last edited: 9/04/2023
+description: defines the CSS for apply.html
+*/
+input[type=text] {  /*defines the attributes of the type 'text'*/
+    font-family: 'Open Sans';
+    font-size: 14px;
+    width: 50%; /*defines relative width*/
+    padding: 2px; /*adds padding within the text fields border*/
+    padding-left: 6px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none; /*removes border*/
+    border-bottom: 2px  solid black;
+    background: rgb(247, 247, 247);
+}
+
+input[type=email] { /*defines the attributes of the type 'email'*/
+    font-family: 'Open Sans';
+    font-size: 14px;
+    width: 50%;
+    padding: 10px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px  solid black;
+    background: rgb(247, 247, 247);
+}
+
+input[type=submit] { /*defines the attributes of the type 'submit'*/
+    font-family: 'Open Sans';
+    font-size: 14px;
+    padding: 5px;
+    margin: 15px 0;
+    border: 1px  solid black;
+}
+
+input[type=reset] { /*defines the attributes of the type 'reset'*/
+    font-family: 'Open Sans';
+    font-size: 14px;
+    padding: 5px;
+    margin: 15px 0;
+    border: 1px  solid black;
+}
+
+.JobApplication { /*defines the job application title*/
+    font-family: 'Open Sans';
+    font-size: 16px;
+    text-align: center;
+}
+
+.ApplicantForm { /*defines the whole of the apply form fieldset*/
+    font-family: 'Open Sans'; /*defines the font*/
+    font-size: 20px; /*defines the font size*/
+    text-align: center; /*centres text in fieldset*/
+    width: 50%; /*size of the form relative to the page*/
+    min-width: 40em; /*min form size*/
+    margin-left: auto;  /*Centres form*/
+    margin-right: auto;
+}
+
+
+#ApplyForm { /*defines the aesthetics of the Form and removes the fieldset border*/
+    border: none;
+    border-top: 3px solid rgb(255, 139, 135); /*creates and colors the top border line*/
+    border-bottom: 3px solid rgb(255, 139, 135); /*creates and colors the bottom border line*/
+    background: rgb(247, 247, 247); /*colors the background of the form*/
+}
+
+#GenderField { /*defines the dimensions of the genderfieldset, removes the fieldset border and centres it using the margin*/
+    border: none;
+    width: 15em; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ContactField { /*defines the dimensions of the contact fieldset, and centres it using the margin*/
+    width: 25em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Contact { /* makes the contact fieldset have no border */
+    border: none;
+}
+
+#email { 
+    width: 18em;
+}
+
+#phone {
+    width: 10em
+}
+
+.SkillField {
+    width: 25em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SubRes { /*centres submit and reset buttons*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#submit { /*defines submit button aesthetics*/
+    color: white; /*sets button, text color to white*/
+    background-color: rgb(255, 60, 53);
+}
+
+#reset { /*defines reset button aesthetics*/
+    color: white;
+    background-color: rgb(255, 60, 53);
+}
+
+#job_reference {
+    width: 5em;
+}
+
+#fname, #lname {
+    width: 15em;
+    text-align: center;
+}
+
+#date {
+    width: 8em;
+    text-align: center;
+}
+
+#address {
+    width: 50%;
+}
+
+#suburb {
+    width: 16em;
+}
+
+#postcode {
+    width: 4em;
+}
+/*#endregion*/
+/*#region about page*/
+#groupDetails {
+	width: 100%;
+	overflow: hidden;
+	padding: 0px;
+	margin: 0px;
+}
+#groupDetails dt {
+	float: left;
+	width: 50%;
+	padding: 0px;
+	margin: 0px;
+}
+#groupDetails dd {
+	float: left;
+	width: 50%;
+	padding: 0px;
+	margin: 0px;
+}
+#timeTable {
+	width: 100%;
+	border-collapse: collapse;
+}
+#timeTable th, #timeTable td {
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+
+#timeTable th {
+	background-color: #f2f2f2;
+}
+
+#aboutUsMain {
+    padding: 2em;
+}
+
+/* Define styles for the image */
+#groupPhoto {
+	height: 15em;
+    width:auto;
+}
+/*#endregion*/
+/*#region enhancements page*/
+#heading1{
+    color: rgb(0, 5, 4);
+}
+#heading1:hover{
+    color: rgb(231, 35, 9);
+
+    /* background-color: blue; */
+
+    background: url(unitoutline_logo.png);
+
+    border: 2px solid black;
+}
+img{
+    width: 100px;
+    height: 150px;
+}
+#hoverImg{
+    font-size: 30PX;
+    width: 400px;
+    border: 2px solid black;
+	padding: 30px;
+}
+#hoverImg:hover{
+    background:url(images/background.jpeg);
+	background-size: cover;
+}
+#EnhancmentsDescription p{
+	font-size: 18px;
+}
+#References p{
+	font-size: 18px;
+}
+/*#endregion*/
+/*#endregion*/
+/*#region footer*/
+footer {
+	background-color: black;
+	padding: 25;
+}
+.footerLink {
+	color:rgb(255, 60, 53)
+}
+.footerLink:hover {
+	color:rgb(255, 139, 135)
+}
+footer img {
+	border-style: solid;
+	height: 50px;
+	padding: 5px;
+}
+footer table {
+	color: white;
+	font-size: 12px;
+	padding: 40px;
+}
+footer table tr td {
+	padding-right: 30px;
+}
+/*#endregion*/
+/*#region fonts*/
+@font-face { /*allows the page access to the Open Sans font*/
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: 100%;
+	src: url(https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/*#endregion*/

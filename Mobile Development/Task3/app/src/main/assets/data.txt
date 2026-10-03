@@ -1,0 +1,30 @@
+Michael Johnson,USA,4,2,0
+Simone Biles,USA,7,1,0
+Katie Ledecky,USA,7,3,0
+Carl Lewis,USA,9,1,1
+Florence Griffith-Joyner,USA,3,0,0
+Jackie Joyner-Kersee,USA,3,1,2
+Usain Bolt,Jamaica,8,0,0
+Phelps,USA,23,3,2
+Gabby Douglas,USA,2,1,1
+Allyson Felix,USA,6,4,0
+Ian Thorpe,Australia,5,3,0
+Cathy Freeman,Australia,1,2,1
+Dawn Fraser,Australia,4,0,0
+Grant Hackett,Australia,3,0,0
+Leisel Jones,Australia,3,1,0
+Kieren Perkins,Australia,2,1,0
+James Magnussen,Australia,0,1,2
+Libby Trickett,Australia,2,1,1
+Daniel Kowalski,Australia,0,1,1
+Kenrick Monk,Australia,1,0,0
+Peter Snell,New Zealand,2,0,0
+Valerie Adams,New Zealand,2,1,0
+Mark Todd,New Zealand,0,2,0
+Barbara Kendall,New Zealand,1,0,0
+Eve Rimmer,New Zealand,0,0,0
+Beatrice Faumuina,New Zealand,1,0,0
+Kirsten Neuschäfer,New Zealand,0,0,0
+Ross Taylor,New Zealand,0,1,0
+David Tua,New Zealand,0,0,1
+Sarah Ulmer,New Zealand,1,0,0

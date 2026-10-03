@@ -1,0 +1,133 @@
+<!DOCTYPE HTML>
+<html lang ="en">
+<body>
+
+	<div class="Manage"> <!-- header -->
+	<h1>Manage - HR</h1> 
+	</div>
+
+	<!-- creating the form -->
+	<form method="post" action="manage.php">
+	<div class="Manage">
+	<!--Start of the search form-->
+	<fieldset id="HR_Form">
+		<P>
+			<label for="job_reference_code"><b>Job Reference Code: </b></label>
+			<input type="text" name="job_reference_code" id="job_reference_code" minlength="5" maxlength="5"> 
+			<br>
+			
+		</p>
+		<p>
+			<label for="firstname"><b>First Name: </b></label>
+			<input type="text" name="firstname" id="firstname" pattern="[A-Za-z-]{1,20}"> 
+			<!--1-20 can be the input-->
+		</p>
+        <p>
+			<label for="lastname"><b>Last Name: </b></label>
+			<input type="text" name="lastname" id="lastname" pattern="[A-Za-z-]{1,20}" > 
+			<!--1-20 can be the input-->
+		</p>
+		<p>
+			<label for="dob"><b>Date of Birth: </b></label> 
+        	<input type="text" id="dob" name="dob" placeholder="dd/mm/yyyy" pattern="\d{2}/\d{2}/\d{4}"> 
+			<!--format allowed is xx/xx/xxxx-->
+		</p>
+		<fieldset id="gender">
+			
+			<legend><h3><b>Gender</b></h3></legend>
+			<p>
+				<label for="gendermale">
+				<input type="radio" name="gender" id="gendermale" value="gendermale" > 
+				<!--radio button-->
+                <b>Male</b></label> 
+			
+				<label for="genderfemale">
+				<input type="radio" name="gender" id="genderfemale" value="genderfemale" > 
+				<!--radio button-->
+                <b>Female</b></label> 
+
+				<label for="genderother">
+				<input type="radio" name="gender" id="genderother" value="genderother" > 
+				<!--radio button-->
+                <b>Other</b></label> 
+			</p>
+		</fieldset>
+		<p>
+            <label for="street"><b>Street Address:</b></label>
+			<input type="text" name="street" id="street" maxlength="40"> 
+		</p>
+
+		<p>
+			<label for="town"><b>Suburb/Town:</b></label>
+			<input type="text" name="town" id="town" maxlength="40"> 
+        </p>
+        <p>
+			<label for="code"><b>Postcode:</b></label>
+			<input type="text" name="code" id="code" pattern="\d{4}" maxlength="4"> 
+		
+		</p>
+		<p>
+			<label for="dropdown"><b>States:</b></label>
+			<select name="dropdown" id="dropdown">
+				<option value="ACT">ACT</option>		
+				<option value="NT">NT</option>			
+				<option value="QLD">QLD</option>	
+				<option value="SA">SA</option>			
+				<option value="TAS">TAS</option>		
+				<option value="VIC">VIC</option>	
+				<option value="WA">WA</option>			
+			</select>
+            <!--drop down list appears-->
+		</p>
+		<div class="ContactInformation">
+		<fieldset id="ContactInformation">
+			<legend><h3><b>Contact </b></h3></legend>
+			<p><label for="emailid"><b>Email:</b></label>
+			<input type="email" name="emailid" id="emailid" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" >
+			</p>
+			<p><label for="phonenumber"><b>Phone:</b></label>
+			<input type="text" name="phonenumber" id="phonenumber" pattern="[0-9]{8,12}" > 
+			</p>
+		</fieldset>
+		</div>
+		<br>
+		<div class="Skills">
+		
+		<fieldset>
+			<legend><h3><b>Skills Required</b></h3></legend>
+			<p>Select the ones that you want to search:</p>
+			<p><label for="efficient">Efficient</label> 
+				<input type="checkbox" id="efficient" name="category[]" value="Efficient">
+			
+				<label for="organised">Organised</label> 
+				<input type="checkbox" id="organised" name="category[]" value="Organised">
+			
+				<label for="attentive">Attentive</label> 
+				<input type="checkbox" id="attentive" name="category[]" value="attentive">
+			</p>
+			<p><label for="reliable">Reliable</label> 
+				<input type="checkbox" id="reliable" name="category[]" value="reliable">
+			
+				<label for="collaborative">Collaborative</label> 
+				<input type="checkbox" id="collaborative" name="category[]" value="collaborative">
+			
+				<label for="adaptable">Adaptable</label> 
+				<input type="checkbox" id="adaptable" name="category[]" value="adaptable">
+			</p>
+			<p><label for="other">Other:</label> 
+			<p>
+				<textarea id="other" name="category[]" rows="4" cols="50" placeholder="Please follow up other skils with a ','. (eg. time management, clean)"></textarea> <!--Placeholder fills the text area with a temporary text-->
+			</p>
+		</fieldset>
+		</div>
+		
+	</fieldset>
+	<div class="SubRes">
+		<input type= "submit" value="Search" id="submit"> 
+	</div>
+	</div>
+	<br>
+	
+	</form>
+</body>
+</html>
