@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Bluetooth Headphones",
+        "description": "High-quality over-ear Bluetooth headphones with noise cancellation and 20-hour battery life.",
+        "category": "Electronics",
+        "price": 79.99,
+        "rating": 4.5,
+        "stock": 24
+    },
+    {
+        "id": 2,
+        "name": "Running Shoes",
+        "description": "Lightweight, breathable running shoes for daily workouts.",
+        "category": "Footwear",
+        "price": 59.99,
+        "rating": 4.3,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "name": "Cotton T-Shirt",
+        "description": "100% cotton unisex t-shirt, available in multiple colors.",
+        "category": "Clothing",
+        "price": 14.99,
+        "rating": 4.1,
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "name": "Stainless Steel Water Bottle",
+        "description": "Insulated bottle that keeps drinks hot for 12 hours or cold for 24 hours.",
+        "category": "Home & Kitchen",
+        "price": 22.49,
+        "rating": 4.7,
+        "stock": 60
+    },
+    {
+        "id": 5,
+        "name": "USB-C Charging Cable",
+        "description": "Durable 1.5m USB-C cable with fast-charging support.",
+        "category": "Accessories",
+        "price": 9.99,
+        "rating": 4.6,
+        "stock": 200
+    },
+    {
+        "id": 6,
+        "name": "Gaming Mouse",
+        "description": "Ergonomic gaming mouse with 7 programmable buttons and RGB lighting.",
+        "category": "Electronics",
+        "price": 39.99,
+        "rating": 4.4,
+        "stock": 15
+    },
+    {
+        "id": 7,
+        "name": "Backpack",
+        "description": "Water-resistant backpack with laptop compartment, ideal for school or travel.",
+        "category": "Bags",
+        "price": 29.95,
+        "rating": 4.2,
+        "stock": 49
+    },
+    {
+        "id": 8,
+        "name": "Desk Lamp",
+        "description": "LED desk lamp with adjustable brightness and USB charging port.",
+        "category": "Home & Kitchen",
+        "price": 18.99,
+        "rating": 4.3,
+        "stock": 70
+    },
+    {
+        "id": 9,
+        "name": "Wireless Keyboard",
+        "description": "Slim wireless keyboard with quiet keys and long battery life.",
+        "category": "Electronics",
+        "price": 32.5,
+        "rating": 4.2,
+        "stock": 19
+    },
+    {
+        "id": 10,
+        "name": "Yoga Mat",
+        "description": "Non-slip yoga mat with carrying strap, ideal for home workouts.",
+        "category": "Fitness",
+        "price": 24.99,
+        "rating": 4.5,
+        "stock": 80
+    },
+    {
+        "id": 11,
+        "name": "Coffee Maker",
+        "description": "Single-serve coffee machine compatible with most coffee pods.",
+        "category": "Appliances",
+        "price": 69.95,
+        "rating": 4.4,
+        "stock": 20
+    },
+    {
+        "id": 12,
+        "name": "Electric Toothbrush",
+        "description": "Rechargeable toothbrush with 3 brushing modes and 2-minute timer.",
+        "category": "Health & Personal Care",
+        "price": 34.99,
+        "rating": 4.6,
+        "stock": 55
+    },
+    {
+        "id": 13,
+        "name": "Notebook Pack",
+        "description": "Pack of 5 lined A5 notebooks with soft covers.",
+        "category": "Stationery",
+        "price": 12.99,
+        "rating": 4.1,
+        "stock": 120
+    },
+    {
+        "id": 14,
+        "name": "Smart LED Bulb",
+        "description": "WiFi-enabled smart bulb with RGB colors and app control.",
+        "category": "Smart Home",
+        "price": 14.99,
+        "rating": 4.4,
+        "stock": 75
+    },
+    {
+        "id": 15,
+        "name": "Portable Power Bank",
+        "description": "10,000mAh power bank with dual USB output for charging on the go.",
+        "category": "Electronics",
+        "price": 19.99,
+        "rating": 4.5,
+        "stock": 90
+    },
+    {
+        "id": 3,
+        "name": "Orange",
+        "description": "Juicy orange",
+        "category": "Fruit",
+        "price": 0.6,
+        "rating": "3.0",
+        "stock": 120
+    }
+]

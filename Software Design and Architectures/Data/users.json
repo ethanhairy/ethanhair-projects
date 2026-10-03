@@ -1,0 +1,38 @@
+[
+    {
+        "userId": 1,
+        "username": "default",
+        "password": "default",
+        "type": "user"
+    },
+    {
+        "userId": 2,
+        "username": "admin",
+        "password": "admin",
+        "type": "admin"
+    },
+    {
+        "userId": 8836,
+        "username": "nemz",
+        "password": "nemz",
+        "type": "user"
+    },
+    {
+        "userId": 8569,
+        "username": "LA",
+        "password": "123456",
+        "type": "user"
+    },
+    {
+        "userId": 50,
+        "username": "testUser",
+        "password": "abc",
+        "type": "user"
+    },
+    {
+        "userId": 7421,
+        "username": "newUser",
+        "password": "newPassword",
+        "type": "user"
+    }
+]
